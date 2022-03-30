@@ -4,4 +4,4 @@
 - 📫 Email: helloworld970511@naver.com 
 - 📚 Blog: https://from-naeun.tistory.com/
 - 👩‍💻 Technology stack: Python, Java, Jsp/Servlet, Spring, OracleDB, MySQL, Django, React.js, Javascript, etc...
-- 🧾 Profile: world970511.github.io
+- 🧾 Portfolio: https://world970511.github.io/ (작성중)
