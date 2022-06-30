@@ -5,4 +5,4 @@
 - 📚 Blog: https://from-naeun.tistory.com/
 - 👩‍💻 Technology stack: Python, Java, Jsp/Servlet, Spring, OracleDB, MySQL, Django, React.js, Javascript, etc...
 - 🧾 Portfolio: https://world970511.github.io/ 
-- 💾notion: <a href="https://www.notion.so/a3426fe237de4f91b5a782005e4e5628">Notion link<a/>
+- 💾notion: <a href="https://cautious-lobe-6c9.notion.site/a3426fe237de4f91b5a782005e4e5628">Notion link<a/>
